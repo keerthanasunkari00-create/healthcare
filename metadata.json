@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Portal",
+  "description": "A modern hospital portal with appointment booking, patient dashboard, reports, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
